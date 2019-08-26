@@ -1,3 +1,3 @@
 # CarouselMobile
 
-TODO : Rewrite without GSAP dependancy
+TODO : Rewrite without GSAP and jQuery dependancy
